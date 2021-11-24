@@ -1,0 +1,457 @@
+[33mcommit 8b8eb7c28f4bde9e5813e4605180669435b34ab1[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Yeva Drach <evadrach1408@gmail.com>
+Date:   Tue Nov 23 20:55:17 2021 +0200
+
+    final result
+
+[33mcommit e3ab4d1f1b50d80fb1cc14bc2050d7149f263528[m
+Author: Yeva Drach <evadrach1408@gmail.com>
+Date:   Fri Nov 19 16:22:29 2021 +0200
+
+    first commit
+
+[33mcommit f114aa61af2f71bd4aa4f2ea51dea05e8db7c28f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 694d08b e614e63
+Author: Ihor Karpyn <63306833+Ihor-Karpyn@users.noreply.github.com>
+Date:   Fri Nov 19 14:52:36 2021 +0200
+
+    Merge pull request #1192 from mate-academy/mate-scripts-update
+    
+    Add jest in package
+
+[33mcommit e614e63eaee5bbd3f8c60ebb47e46b8588bae074[m[33m ([m[1;31morigin/mate-scripts-update[m[33m)[m
+Author: Danylo Onishchuk <danylo.o@mate.academy>
+Date:   Fri Nov 19 14:45:17 2021 +0200
+
+    Add jest in package in devDependencies
+
+[33mcommit 694d08b0728a2a49d8837da71b98dad8eaca1b75[m
+Author: Elena Baranova <64437769+Elena-brv@users.noreply.github.com>
+Date:   Tue Nov 16 15:53:49 2021 +0200
+
+    Update checklist.md
+
+[33mcommit aaa4659c0baf949ffc3fca3ac2bdb8948cff1569[m
+Merge: b9b2206 edae071
+Author: VinnieJ-2k20 <60885495+VinnieJ-2k20@users.noreply.github.com>
+Date:   Tue Oct 26 15:34:24 2021 +0300
+
+    Merge pull request #1110 from mate-academy/fix-screenshot
+    
+    fix screenshot
+
+[33mcommit edae07170a72930697017577172e57c04a48c915[m[33m ([m[1;31morigin/fix-screenshot[m[33m)[m
+Author: VinnieJ-2k20 <ptimofejev@gmail.com>
+Date:   Tue Oct 26 15:34:02 2021 +0300
+
+    fix screenshot
+
+[33mcommit b9b2206eae81dfda3faac21926ce428636cb8e77[m
+Merge: 9796f02 ea81446
+Author: VinnieJ-2k20 <60885495+VinnieJ-2k20@users.noreply.github.com>
+Date:   Tue Oct 26 15:31:01 2021 +0300
+
+    Merge pull request #1108 from mate-academy/update-checklist-with-spoilers-and-screenshots
+    
+    [Checklist]: Update checklist with spoilers
+
+[33mcommit ea81446e3aa3113661cb90d555a0aa34692aab45[m[33m ([m[1;31morigin/update-checklist-with-spoilers-and-screenshots[m[33m)[m
+Author: VinnieJ-2k20 <ptimofejev@gmail.com>
+Date:   Tue Oct 26 11:19:06 2021 +0300
+
+    update checklist
+
+[33mcommit 9796f02518fe11c90fab88f5124cfda0566c63b9[m
+Merge: 1d06ada 273ec32
+Author: solaryasha <32794096+solaryasha@users.noreply.github.com>
+Date:   Tue Sep 14 18:53:47 2021 +0300
+
+    Merge pull request #1034 from mate-academy/markup-improvement
+    
+    [Checklist]: improve markup in checklist
+
+[33mcommit 273ec3270ad08648531b85f38f131141f43c0bdb[m
+Author: VinnieJ-2k20 <ptimofejev@gmail.com>
+Date:   Tue Sep 14 09:15:26 2021 +0300
+
+    improve markup in checklist
+
+[33mcommit 1d06adaecb578871a8335e142298101f190b1e32[m
+Merge: 600608a b186c73
+Author: VinnieJ-2k20 <60885495+VinnieJ-2k20@users.noreply.github.com>
+Date:   Mon Sep 13 18:30:07 2021 +0300
+
+    Merge pull request #1033 from mate-academy/update-checklist
+    
+    [Checklists]: update readme and checklist
+
+[33mcommit b186c735b24a07728bceb1e753fcb6409c14e77d[m[33m ([m[1;31morigin/update-checklist[m[33m)[m
+Author: VinnieJ-2k20 <ptimofejev@gmail.com>
+Date:   Mon Sep 13 18:04:42 2021 +0300
+
+    add checklist link to readme
+
+[33mcommit 5190a2d08512d68fe8d7202c25e64242fbb5a898[m
+Author: VinnieJ-2k20 <ptimofejev@gmail.com>
+Date:   Mon Sep 13 17:32:08 2021 +0300
+
+    update readme and checklist
+
+[33mcommit 600608aefc9ab70aa2b506e0e1d78281667289b9[m
+Merge: c5688c8 2ecb2e7
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Tue Jun 22 15:27:40 2021 +0300
+
+    Merge pull request #818 from mate-academy/mate-scripts-update
+    
+    update mate-scripts, update layout CI file
+
+[33mcommit 2ecb2e7638661244676dc2257b129f1f0e15c5e0[m
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Tue Jun 22 15:26:55 2021 +0300
+
+    update mate-scripts, update layout CI file
+
+[33mcommit c5688c89bbb20fa7ec63d1ceb16c162daf9dec39[m
+Merge: da6895a de963e6
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Wed May 26 17:54:17 2021 +0300
+
+    Merge pull request #789 from mate-academy/mate-scripts-update
+    
+    update mate-scripts
+
+[33mcommit de963e66ffe341fab2fa9a08df689d1b23ddbc8d[m
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Wed May 26 17:54:12 2021 +0300
+
+    update mate-scripts
+
+[33mcommit da6895a76e5027abeca9c37bca461a1069795b7d[m
+Merge: 449a822 58b68a6
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Wed May 26 17:47:45 2021 +0300
+
+    Merge pull request #788 from mate-academy/mate-scripts-update
+    
+    update backstop config
+
+[33mcommit 58b68a6993d970962029cd797596ffe35a38eaaa[m
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Wed May 26 17:47:40 2021 +0300
+
+    update backstop config
+
+[33mcommit 449a82228d2999dce1101f894b565e011f6e9453[m
+Merge: c832de7 e801a3b
+Author: Misha Grinko <glukym@gmail.com>
+Date:   Mon Mar 29 12:28:13 2021 +0300
+
+    Merge pull request #690 from mate-academy/edit-onsubmit-task
+    
+    added details for onsubmit attribute
+
+[33mcommit e801a3b62c8d73d4eea42736d89bcd4788998829[m
+Author: PaulT <ptimofejev@gmail.com>
+Date:   Mon Mar 29 09:15:48 2021 +0300
+
+    fixed linter errors
+
+[33mcommit 448f5a433acbd3e3bc90962fbd27ebe35eba1d92[m
+Author: PaulT <ptimofejev@gmail.com>
+Date:   Mon Mar 29 08:59:14 2021 +0300
+
+    added details for onsubmit attribute
+
+[33mcommit c832de74137fc4e9c05fcda954b2e37c74ac3d4e[m
+Author: Misha Grinko <glukym@gmail.com>
+Date:   Thu Mar 25 12:26:35 2021 +0200
+
+    Update readme.md
+
+[33mcommit 1e027183bc47cedfd76bc0e0e97273efe2082a56[m
+Author: Misha Grinko <glukym@gmail.com>
+Date:   Thu Mar 25 12:25:32 2021 +0200
+
+    Update readme.md
+
+[33mcommit d153344ab254999d740be20ac1666684a479b388[m
+Author: Misha Grinko <glukym@gmail.com>
+Date:   Thu Mar 25 12:24:44 2021 +0200
+
+    Update readme.md
+
+[33mcommit 6dd0c26ddb4adc9204d75349226c7c37af461dea[m
+Author: Alona Ionova <68023426+aionova@users.noreply.github.com>
+Date:   Thu Mar 25 12:08:50 2021 +0200
+
+    Update readme.md
+
+[33mcommit fbbfe2b4ea4c5496b42f8dde271fd625168bc426[m
+Author: Misha Grinko <glukym@gmail.com>
+Date:   Tue Mar 23 08:01:56 2021 +0200
+
+    Update readme.md
+
+[33mcommit 6db41bd31caf59e09577db5f901fec48f267db90[m
+Merge: 67a0670 3bddd31
+Author: Vladimir <60401137+Vladimir-Beliy@users.noreply.github.com>
+Date:   Wed Mar 17 13:16:22 2021 +0200
+
+    Merge pull request #612 from mate-academy/mate-scripts-update
+    
+    update @mate-academy/bemlint
+
+[33mcommit 3bddd312181ef340a39625d5961c1c6407f79c03[m
+Author: Vladimir-Beliy <vovaazick@gmail.com>
+Date:   Wed Mar 17 13:16:13 2021 +0200
+
+    update @mate-academy/bemlint
+
+[33mcommit 67a0670a8c3827ab41d40749ccc02e1fe7bb3948[m
+Merge: 466ff16 b496116
+Author: Vladimir <60401137+Vladimir-Beliy@users.noreply.github.com>
+Date:   Tue Mar 16 20:09:41 2021 +0200
+
+    Merge pull request #611 from mate-academy/mate-scripts-update
+    
+    update @mate-academy/scripts to 0.8.0
+
+[33mcommit b496116683b74a821be9058b196452453d232aba[m
+Author: Vladimir-Beliy <vovaazick@gmail.com>
+Date:   Tue Mar 16 20:09:37 2021 +0200
+
+    update @mate-academy/scripts to 0.8.0
+
+[33mcommit 466ff16aca854e03b6c6dbbe18cde869d60d709b[m
+Merge: a642784 71521f2
+Author: Vladimir <60401137+Vladimir-Beliy@users.noreply.github.com>
+Date:   Tue Mar 16 20:00:13 2021 +0200
+
+    Merge pull request #609 from mate-academy/mate-scripts-update
+    
+    update @mate-academy/scripts to 0.8.0
+
+[33mcommit 71521f2480efc22e4f352237d40816aa9ae28927[m
+Author: Vladimir-Beliy <vovaazick@gmail.com>
+Date:   Tue Mar 16 20:00:06 2021 +0200
+
+    update @mate-academy/scripts to 0.8.0
+
+[33mcommit a642784e8b9e643c56904a12e56aa93a880edad1[m
+Author: Misha Grinko <glukym@gmail.com>
+Date:   Tue Mar 16 12:16:05 2021 +0200
+
+    Update readme.md
+
+[33mcommit 85f3a10b2206ccfb0f333ae302ccc7c655b8f038[m
+Author: solaryasha <32794096+solaryasha@users.noreply.github.com>
+Date:   Thu Jan 14 14:47:49 2021 +0200
+
+    Update readme.md
+
+[33mcommit b2048782f64cb01138cbae27d8a0f13e9c78a83d[m
+Author: Holovko Iryna <33497431+irenhh@users.noreply.github.com>
+Date:   Fri Nov 6 10:46:20 2020 +0200
+
+    Update checklist.md
+
+[33mcommit 67619e9adf2344032942af40d46b1ce727fde290[m
+Author: Kryvytskyy Volodymyr <vovakrivickiy34@gmail.com>
+Date:   Mon Jul 6 14:51:26 2020 +0300
+
+    Update checklist.md
+
+[33mcommit 37b6bef32970f940209441667386d46aee4641f6[m
+Author: Holovko Iryna <33497431+irenhh@users.noreply.github.com>
+Date:   Tue Jun 30 18:05:46 2020 +0300
+
+    Update checklist.md
+
+[33mcommit f38eddf5ad91d2e78df4059b43f6b16def4d9af8[m
+Author: Holovko Iryna <33497431+irenhh@users.noreply.github.com>
+Date:   Tue Jun 30 11:27:47 2020 +0300
+
+    Create checklist.md
+
+[33mcommit 3c02a76f13b9c7eb3c6f3500c2bb2d6bc4895bad[m
+Merge: 6f83d6e e29740c
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Mon May 25 12:09:12 2020 +0300
+
+    Merge pull request #376 from mate-academy/mate-scripts-update
+    
+    remove unneeded browser-sync
+
+[33mcommit e29740c3a27d7a9d44113e57e5495f7964cbdda7[m
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Mon May 25 12:08:59 2020 +0300
+
+    remove unneeded browser-sync
+
+[33mcommit 6f83d6e0fa4dffb40ea627015f55357e0219604d[m
+Merge: 317c69d ff59bcb
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Sun May 24 16:06:53 2020 +0300
+
+    Merge pull request #375 from mate-academy/mate-scripts-update
+    
+    fix npm vulnerabilities(npm audit fix --force)
+
+[33mcommit ff59bcbe17ae26a595b6042a746ed046d8c31f7a[m
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Sun May 24 16:06:45 2020 +0300
+
+    fix npm vulnerabilities(npm audit fix --force)
+
+[33mcommit 317c69d765993a1e995c12e7f5ad40153b3b474c[m
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Sun May 24 14:49:29 2020 +0300
+
+    upgrade to @mate-academy/scripts (#374)
+
+[33mcommit d76b304ed4a8ed7e255e91c00b2dc5dcad2934bf[m
+Author: Holovko Iryna <33497431+irenhh@users.noreply.github.com>
+Date:   Wed Dec 18 13:14:49 2019 +0200
+
+    line-breaking
+    
+    updated according to linter
+
+[33mcommit d33378aa8d0a41736b1366c4ebfe814a55107e9f[m
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Mon Dec 16 16:53:37 2019 +0200
+
+    Update package.json
+
+[33mcommit 95155ef0b77d63db163a635a3900587926bf63a1[m
+Author: mgrinko <glukym@gmail.com>
+Date:   Wed Oct 9 10:56:24 2019 +0300
+
+    Deploy was fixed
+
+[33mcommit ee7e052f767031667ffda9c4a4210df4e625d830[m
+Merge: 6e91549 d32fd5e
+Author: Misha Grinko <glukym@gmail.com>
+Date:   Tue Oct 8 16:41:14 2019 +0300
+
+    Merge pull request #203 from mate-academy/simple-dev
+    
+    Simple development
+
+[33mcommit d32fd5e9aa5ce6eba97159cfc15381027f265421[m
+Author: mgrinko <glukym@gmail.com>
+Date:   Tue Oct 8 15:44:19 2019 +0300
+
+    Simple development
+
+[33mcommit 6e91549219abf0a665dac9df6c982ba02e12fea4[m
+Merge: 6168b74 c80ab46
+Author: Остап П'ятковський <44294945+gestap@users.noreply.github.com>
+Date:   Thu Aug 29 15:10:25 2019 +0300
+
+    Merge pull request #166 from mate-academy/browsersync
+    
+    changed http-server to browsersync
+
+[33mcommit c80ab467099c4807291cae184c9209f74be68c31[m
+Author: gestap <gestap9@gmail.com>
+Date:   Thu Aug 29 15:09:42 2019 +0300
+
+    changed http-server to browsersync
+
+[33mcommit 6168b741c1fc2c22514a76f7e4dfb59a7c076fd5[m
+Merge: 7f8dfc2 8ba86e8
+Author: Остап П'ятковський <44294945+gestap@users.noreply.github.com>
+Date:   Thu Jul 25 10:44:16 2019 +0300
+
+    Merge pull request #130 from mate-academy/backstopConfig
+    
+    added backstopConfig module, change config file.
+
+[33mcommit 8ba86e8109fba9dd5a28e49b36d34ff756c80224[m
+Author: gestap <gestap9@gmail.com>
+Date:   Wed Jul 24 15:39:55 2019 +0300
+
+    added backstopConfig module, change config file.
+
+[33mcommit 7f8dfc2a8ce8ab27804bfaadc5f9a054bacdcbbb[m
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Wed Jul 24 12:00:37 2019 +0300
+
+    remove tag name check (#128)
+
+[33mcommit f71c262bd1505eb14d874ae7bca173456c1ef388[m
+Author: Yurii Holiuk <bionicuss@gmail.com>
+Date:   Tue Jul 23 17:26:01 2019 +0300
+
+    Add form value demo on submit to explain names for students (#127)
+    
+    * add form value demo to explain why we need names in forms
+    
+    * downgrade http-server version to solve windows issue
+    
+    * do not add onSubmit listener by default
+
+[33mcommit 89a0fd6a29b871695b57533985e5e92df6969b92[m
+Author: gestap <gestap9@gmail.com>
+Date:   Fri May 17 11:54:43 2019 +0300
+
+    fix backstopConfig
+
+[33mcommit 90a2d284a1e6697c9ae0dea2962114a360280a54[m
+Author: Остап П'ятковський <44294945+gestap@users.noreply.github.com>
+Date:   Fri May 17 10:38:54 2019 +0300
+
+    Updated url
+
+[33mcommit 118a9871ee5252ab2ab4c3c856be7199d6f08a8f[m
+Author: Vadim Ilchenko <v.ilchenko@mate.academy>
+Date:   Sat Apr 27 16:43:04 2019 +0300
+
+    updated reference screenshot
+
+[33mcommit 19dfd74cf2dd94ab268da61a7497e357e504e994[m
+Author: Vadim Ilchenko <vvadimko@gmail.com>
+Date:   Thu Apr 25 17:07:35 2019 +0300
+
+    Update .gitignore
+
+[33mcommit deeb5ba349604bb05a5622bd8a76412ef392543e[m
+Author: Vadim Ilchenko <vvadimko@gmail.com>
+Date:   Thu Apr 25 17:07:14 2019 +0300
+
+    Update package.json
+
+[33mcommit 30e79e4e5c8f11f17abf3aa9c3b223551e4d8a26[m
+Author: Vadim Ilchenko <vvadimko@gmail.com>
+Date:   Thu Apr 25 17:06:27 2019 +0300
+
+    Delete package-lock.json
+
+[33mcommit ef5ecc5975d9d15e2425904f555f08e4b43e1ed4[m
+Merge: f84ec81 6a9f51e
+Author: Vadim Ilchenko <vvadimko@gmail.com>
+Date:   Wed Apr 24 11:32:20 2019 +0300
+
+    Merge pull request #1 from mate-academy/task
+    
+    implemented task and tests
+
+[33mcommit 6a9f51ea815402c050091fa6515881a872290f12[m
+Author: Vadim Ilchenko <v.ilchenko@mate.academy>
+Date:   Wed Apr 24 00:08:44 2019 +0300
+
+    removed second image and kept it as simple link
+
+[33mcommit 4746282a0144ed178470dd213d50fad55254f0b8[m
+Author: Vadim Ilchenko <v.ilchenko@mate.academy>
+Date:   Wed Apr 24 00:05:32 2019 +0300
+
+    implemented task and tests
+
+[33mcommit f84ec81ec63a7291e5ee6ac1932fe83768d0bed9[m
+Author: Vadim Ilchenko <v.ilchenko@mate.academy>
+Date:   Tue Apr 23 22:55:30 2019 +0300
+
+    initial commit
