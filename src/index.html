@@ -13,11 +13,11 @@
   <body>
     <h1>HTML Form</h1>
     <form action="https://mate-academy-form-lesson.herokuapp.com/create-application" onsubmit="onSubmit()">
-      <fieldset>
+      <fieldset class="info-block">
         <legend>Personal information</legend>
         <div class="item">
-          <label for = "surname">
-                Surname:
+          <label for="surname">
+            Surname:
           </label>
           <input
             type="text"
@@ -30,23 +30,23 @@
         </div>
         <div class="item">
           <label for = "name">
-                Name:
+            Name:
           </label>
           <input
-            type = "text"
-            id = "name"
-            name = "name"
+            type="text"
+            id="name"
+            name="name"
             required
           >
         </div>
         <div class="item">
-          <label for = "age">
-                How old are You?
+          <label for="age">
+            How old are You?
           </label>
           <input
-            type = "number"
-            id = "age"
-            name = "age"
+            type="number"
+            id="age"
+            name="age"
             value="12"
             min="0"
             max="100"
@@ -54,32 +54,32 @@
           >
         </div>
         <div class="item">
-          <label for = "birth">
-              Surname:
+          <label for="birth">
+            Surname:
           </label>
           <input
-            type = "date"
-            id = "birth"
-            name = "date of birth"
+            type="date"
+            id="birth"
+            name="date of birth"
             required
           >
         </div>
         <div class="item">
-          <label for = "agreement" class="agreement_label">
-              I accept the term of the agreement
+          <label for="agreement" class="agreement_label">
+            I accept the term of the agreement
           </label>
           <input
-            type = "checkbox"
-            id = "agreement"
-            name = "agreement"
+            type="checkbox"
+            id="agreement"
+            name="agreement"
             class="agreement_field"
           >
         </div>
       </fieldset>
 
-      <fieldset>
+      <fieldset class="info-block">
         <legend>Registration</legend>
-        <div class = "item">
+        <div class="item">
           <label for="email">Email:</label>
           <input
             type="email"
@@ -89,7 +89,7 @@
             required
           >
         </div>
-        <div class = "item">
+        <div class="item">
           <label for="password">Password:</label>
           <input
             type="password"
@@ -101,11 +101,11 @@
           >
         </div>
       </fieldset>
-      <fieldset>
+      <fieldset class="info-block">
         <legend>An interesting fact about you!</legend>
         <div class="item">
           <span>Do you love cats?</span>
-          <label for = "yes">
+          <label for="yes">
             <input
               type="radio"
               name="love cats"
@@ -115,7 +115,7 @@
                 Yes
           </label>
 
-          <label for = "no">
+          <label for="no">
             <input
               type="radio"
               name="love cats"
@@ -147,7 +147,7 @@
         </div>
         <div class="item">
           <span>
-              What are your favourite brand of cars?
+            What are your favourite brand of cars?
           </span>
           <select name="brand of car" multiple>
             <option value="BMW" name="bmw">BMW</option>
@@ -168,7 +168,7 @@
           >
         </div>
       </fieldset>
-      <fieldset>
+      <fieldset class="info-block">
         <legend>Additional info:</legend>
         <div class="item">
           <label for="comments">Comments:</label>
@@ -176,7 +176,7 @@
         </div>
         <div class="item">
           <label for="recommendation">Would you recommend us?</label>
-          <select name = "recommendation" id = "recommendation">
+          <select name="recommendation" id="recommendation">
             <option value="yes">yes</option>
             <option value="no">no</option>
           </select>

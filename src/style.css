@@ -1,4 +1,4 @@
-fieldset:not(:last-child) {
+.info-block:not(:last-child) {
   margin: 0 0 20px;
 }
 
